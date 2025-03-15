@@ -1,0 +1,4 @@
+python-magic
+oletools
+yara-python
+colorama

