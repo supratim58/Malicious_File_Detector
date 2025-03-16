@@ -7,7 +7,7 @@ A CLI tool to detect malware in files using YARA rules and macro analysis.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/malware-detector.git
-   cd malware-detector
+   cd malware_detector
 
 2. Install the dependencies:
 
